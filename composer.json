@@ -1,0 +1,12 @@
+{
+    "name": "tayfunerbilen/uyelik",
+    "authors": [
+        {
+            "name": "tayfunerbilen",
+            "email": "tayfunerbilen@gmail.com"
+        }
+    ],
+    "require": {
+        "sendgrid/sendgrid": "^7.3"
+    }
+}
